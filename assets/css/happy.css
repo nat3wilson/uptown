@@ -1,0 +1,18 @@
+.sm-body {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  background-color: #fff761;
+}
+
+
+img {
+  width: 100%;
+}
+
+.im-image {
+  width: 44%;
+  position: fixed;
+  top: 19.5%;
+  left: 27%
+}
